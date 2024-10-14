@@ -57,7 +57,7 @@ button:hover {
     height: 45px;
     width: 45px;
     margin-left: 10px;
-    background-color: #404040;
+    background-color: white;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -67,7 +67,7 @@ button:hover {
 }
 
 .mic-button img {
-    width: 18px;
+    width: 28px;
 }
 
 /* Styling the section to organize the videos evenly */
